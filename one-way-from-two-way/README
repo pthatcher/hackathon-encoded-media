@@ -1,0 +1,14 @@
+If you want to try the client to server examples:
+
+Install the required packages:
+
+$ pip install aiohttp aiortc opencv-python
+
+Run the server:
+
+$ python server.py
+
+Open the URL in a browser:
+
+http://127.0.0.1:8080
+
